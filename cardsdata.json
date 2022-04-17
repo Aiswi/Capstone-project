@@ -1,0 +1,129 @@
+{   "dogs":[
+        {"id": 1, "src": "https://gestoranimal.com.br/wp-content/uploads/2021/09/Alaskan-Klee-Kai-deitado-na-neve.jpg", "para":"Alaskan Klee Kai", "class":"am_dog"},
+        {"id": 2, "src": "https://www.dog-breeds-expert.com/images/Akbash.jpg", "para": "Akbash", "class":"am_dog"},
+        {"id": 3, "src": "https://s36700.pcdn.co/wp-content/uploads/2019/11/2008_Am-Foxhound_getty1040690072.png", "para": "American foxhound", "class":"am_dog"}
+        ],
+    "cats":[
+        {"id": 4, "src": "https://dinoanimals.com/wp-content/uploads/2020/12/Abyssinian-cat-1.jpg", "para": "Abyssinian", "class":"am_cat"},
+        {"id": 5, "src": "https://i.pinimg.com/originals/36/c0/2a/36c02ab2a2f07189bb6a796d25fddac7.jpg", "para": "Ragdoll", "class":"am_cat"},
+        {"id": 6, "src": "https://preview.redd.it/3ojvq54n5wb21.jpg?auto=webp&s=29545289c93acce313c3906c1310174e456eefce", "para": "Burmese cat", "class":"am_cat"}
+        ],
+    "products":[
+        {
+            "id": 7, 
+            "src": "https://images-eu.ssl-images-amazon.com/images/I/61Cjqpv-o5L.jpg", 
+            "name": "Pedigree Meat & Vegetables", 
+            "details": "Adult Dry Dog Food - 20kg",
+            "price": 86.45,
+            "qty": 1
+        },
+        {
+            "id": 8, 
+            "src": "https://cdn.shopify.com/s/files/1/0086/0795/7054/products/Gluten-Free-Chicken_760585bc-b8e4-41f6-b7b5-cd2a6ab731da_1000x.jpg?v=1648628877", 
+            "name": "HUFT YIMT",
+            "details": "Gluten Free Dog Biscuits Combo",
+            "price": 359.00,
+            "qty": 1
+        },
+        {
+            "id": 9, 
+            "src": "https://www.petshopdirect.com.au/persistent/catalogue_images/products/whiskas-milk-plus-1-litre.png", 
+            "name": "Whiskas Milk Plus",
+            "details": "1 Litre",
+            "price": 378.31,
+            "qty": 1
+        },
+        {
+            "id": 10, 
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKxR3Z40GNIQyR1fpQzVtqxudRiok8Hy4YgZsAqGFgnCuLmiS6wyEUQmYxsZ6M-oGPvro&usqp=CAU", 
+            "name": "HUFT Toss & Tug Rope",
+            "details": "Dog Toy - Fun & easy to play",
+            "price": 136.45,
+            "qty": 1
+        },
+        {
+            "id": 11, 
+            "src": "https://cdn.shopify.com/s/files/1/0086/0795/7054/products/TrixieInteractiveCatToys-PlayingRodWithButterfly-Assorted_510x@2x.png?v=1637916733", 
+            "name": "Trixie Interactive Rod with Butterfly",
+            "details": "Cat Toy - Fun & easy to play",
+            "price": 347.60,
+            "qty": 1
+        },
+        {
+            "id": 12, 
+            "src": "https://img.joomcdn.net/817fa0370743a317924ee01e3a98f6b1128aab1a_original.jpeg", 
+            "name": "Pet Dog Cat Tent House Kennel",
+            "details": "Winter Warm Bed",
+            "price": 2139.00,
+            "qty": 1
+        },
+        {
+            "id": 13, 
+            "src": "https://res.cloudinary.com/epantry/image/upload/f_auto,fl_progressive,h_1160,ar_1:1,c_pad,b_white/v1596843070/oler9uxpgw4n1sstczn1.jpg", 
+            "name": "HUFT Natural Tick & Flea Repellent",
+            "details": "Shampoo",
+            "price": 349.00,
+            "qty": 1
+        },
+        {
+            "id": 14, 
+            "src": "https://m.media-amazon.com/images/I/51MIRQhM3dL._SY355_.jpg", 
+            "name": "HUFT Pet Dematting",
+            "details": "Narrow Tooth Comb",
+            "price": 86.45,
+            "qty": 1
+        },
+        {
+            "id": 15, 
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpDY2ojwwvh3e_vhBVZvBboaPMO9bbIuz1WSmTppoqY_A82BI-6jCKhdpFgJQnhVcPJrE&usqp=CAU", 
+            "name": "HUFT Personalised Dog Collar",
+            "details": "large dogs",
+            "price": 799.45,
+            "qty": 1
+        },
+        {
+            "id": 16, 
+            "src": "https://zoodmall.com/cdn-cgi/image/w=450,fit=contain,f=auto/http://www.welenespicshop.com/tupian9/LYD200810378_0255430993880365308.jpg", 
+            "name": "HUFT Polka Dot Bow Tie",
+            "details": "Detachable Cat/Puppy - Pink",
+            "price": 299.00,
+            "qty": 1
+        },
+        {
+            "id": 17, 
+            "src": "https://cdn.shopify.com/s/files/1/0312/8826/2795/products/shebayellow_512x512.png?v=1613375341", 
+            "name": "Sheba Premium Wet Cat Food",
+            "details": "Tuna Pumpkin & Carrot",
+            "price": 660.00,
+            "qty": 1
+        },
+        {
+            "id": 18, 
+            "src": "https://media.littlewoods.com/i/littlewoods/RUNE7_SQ3_0000000005_GREY_SLd1?$300x400_retinamobilex2$", 
+            "name": "HUFT Big Buddy Collection Dog Toy",
+            "details": "Bunny the Rabbit",
+            "price": 86.45,
+            "qty": 1
+        }
+    ],
+    "reviews":[
+        {
+            "id":19, 
+            "name":"Ruhi Chawla", 
+            "para":"It is so fun to teach them new tricks and watchthem grow, it is so much enjoyable and satisfying", 
+            "src":"https://media.istockphoto.com/photos/beautiful-woman-doing-high-five-her-adorable-golden-retriever-dog-at-picture-id1204274923?k=20&m=1204274923&s=612x612&w=0&h=Ui8B5hTJ0ccS6MQw2nD_npjZYEVpEobkmjmjEoYzgNQ="
+        },
+        {
+            "id":20, 
+            "name":"Rohit Kumar", 
+            "para":"Yesterday I went on a hiking with my pet dog,having a companion makes travel so much fun.", 
+            "src":"http://www.napervilleanimalhospital.com/blog/wp-content/uploads/2018/03/Naperville_iStock-639058492-1200x800.jpg"
+        },
+        {
+            "id":21, 
+            "name":"Ranjit Behera", 
+            "para":"It is so fun to watch my dog play.I am so much relaxed whenever I am near him and it's comfy.", 
+            "src":"https://www.veterinarypracticenews.com/wp-content/uploads/2021/01/EJ_Pets.jpg"
+        }
+    ]
+}

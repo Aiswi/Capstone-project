@@ -1,0 +1,25 @@
+.changeHeight{
+    height: 540px;
+    background-color: rgb(235, 235, 235);
+    position: relative;
+}
+
+.outdiv{
+    top: 5%;
+    height:420px;
+    width: 86%;
+    position: absolute;
+    left: 7%;
+    text-align: center;
+}
+.changeHeightimg{
+    width: 100%;
+    height: 420px;
+}
+.textarea{
+    color: black;
+    position: absolute;
+    top: 30%;
+    left: 35%;
+
+}

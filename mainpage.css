@@ -1,0 +1,240 @@
+.main{
+    margin: 0;
+    background: url("https://icatcare.org/app/uploads/2018/07/Thinking-of-getting-a-cat.png");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+a{
+    text-decoration: none;
+}
+.aminfo span{
+    color: #812b2b;
+}
+.aminfo h2{
+    text-align: center;
+}
+.aminfo .aminfo_1 h2{
+    letter-spacing: 3px;
+}
+.aminfo_1, .aminfo_2, .aminfo_3{
+    background-color: white;
+    padding: 10%;
+    display: flex;
+}
+.aminfo .am_ad_1{
+    height: 80px;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: space-around;
+    color: lightgreen;
+}
+.am_ad_1 div{
+    align-self: center;
+}
+.am_ad_1 a{
+    background-color: white;
+    align-self: center;
+    width: 20%;
+    text-align: center;
+    padding: 1%;
+    border-radius: 30px;
+    color: darkgreen;
+}
+.aminfo_2 .am_ad_2{
+    display: flex;
+    flex-wrap: wrap;
+}
+.aminfo_2{
+    text-align: left;
+}
+.aminfo_2 .am_ad_2 div, .am_ad_2 a{
+    margin: 20px;
+    padding: 20px;
+    width: 250px;
+    box-shadow: 0px 0px 15px 2px lightgrey;
+}
+.am_ad_3{
+    height: 200px;
+}
+.am_ad_3{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.am_ad_3 div:first-child{
+    color: lightgreen;
+    align-self: center;
+}
+.am_ad_3 a{
+    background-color: white;
+    color: darkgreen;
+    width: 20%;
+    align-self: center;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 1%;
+    border-radius: 40px;
+}
+.am_ad_4{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.am_intro{
+    color: lightgreen;
+    font-size: 20px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.vaccine, .hour, .support{
+    display: flex;
+    background-color: white;
+    padding: 1%;
+    border-radius: 10px;
+}
+.vaccine div, .hour div, .support div{
+    align-self: center;
+}
+.aminfo_1 p, .aminfo_2 p, .aminfo_3 ul{
+    color: #828282;
+}
+.am_img_dogshelter, .am_img_cat, .am_img_cat_2{
+
+    align-self: center;
+    padding: 2px;
+    margin-left: 10px;
+    box-shadow: 0px 0px 15px 2px lightgrey;
+    /*border-radius: 10px;*/
+}
+.am_review{
+    padding-bottom: 30px;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.am_r_text{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: white;
+    font-size: 40px;
+}
+.am_review_div{
+    display: grid;
+    /* justify-content: space-around; */
+}
+.am_review_div_1{
+    /* display: flex; */
+    /* flex-direction: column; */
+    width: 30%;
+    display: grid;
+    grid-area: 1/2;
+    justify-content: center;
+}
+#b_up{
+    /* width: 30%; */
+    /* height: 20px; */
+    margin-bottom: 30px;
+    grid-area: 1/2;
+    border: none;
+    background-color: #812b2b;
+}
+#b_down{
+    margin-top: 30px;
+    grid-area: 5/2;
+    border: none;
+    background-color: #812b2b;
+}
+.review{
+    text-align: center;
+    grid-area: 2/1/span 3/span 3;
+    box-shadow: 0px 0px 15px 2px lightgrey;
+    
+}
+.review p{
+    color: #828282;
+    width: 100%;
+}
+.reviewForm{
+    display: grid;
+    color: white;
+    grid-area: 1/3/span 1/span 3;
+}
+.reviewForm input{
+    width: 80%;
+    height: 20px;
+    outline: 1px solid #812b2b;
+}
+
+#name{grid-area: 2/1/span 1/span 3;}
+#labname{grid-area: 1/1;}
+#email{grid-area: 4/1/span 1/span 3;}
+#labemail{grid-area: 3/1;}
+#imageUrl{grid-area: 6/1/span 1/span 3;}
+#labimg{grid-area: 5/1;}
+#review{grid-area: 8/1/span 1/span 3;}
+#labrev{grid-area: 7/1;}
+
+.reviewForm button{
+    grid-area: 9/2;
+    width: 80px;
+    height: 20px;
+    border: none;
+    background-color: #812b2b;
+}
+.featured{
+    display: flex; 
+    justify-content: space-around
+}
+.am_dog, .am_cat{
+    /*margin-left: 3%;
+    margin-right: 3%;*/
+    box-shadow: 0px 0px 15px 2px lightgrey;
+    margin-top: 2%;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.am_dog p, .am_cat p{
+    text-align: center;
+    color: lightgreen;
+}
+.am_fp_in{
+    background-color: white; 
+    text-align: center; 
+}
+.featured{
+    background-color: white; 
+    padding-bottom: 30px;
+}
+.featured_button{
+    height: 30px;
+    width: 50px;
+    align-self: center;
+    background-color: #812b2b;
+    border: none;
+}
+.am_bb_1{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgba(0, 0, 0, 0.5);
+    justify-content: space-around;
+}
+.am_bb_1 div{
+    background-color: white;
+    border-radius: 20px;
+    overflow: hidden;
+    text-align: center;
+    box-shadow: 0px 0px 15px 2px lightgrey;
+    margin: 3%;
+}
+.prod_but{
+    width: 100%;
+    height: 50px;
+    background-color: #812b2b;
+    border: none;
+}

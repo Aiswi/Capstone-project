@@ -1,0 +1,61 @@
+.navbar{
+    position: relative;
+    /* background-color: rgba(0, 0, 0, 0.5); */
+    background-color: #812b2b;
+    transition: 0.5s;
+}
+.navbar.fix{
+    position: sticky;
+    top: 0;
+    /* background-color: rgba(0, 0, 0, 0.5); */
+    background-color: #812b2b;
+    transition: 0.5s;
+}
+#am_logo{
+    border-radius: 100%;
+}
+#bag{
+    height: 25px;
+    margin: 10px;
+}
+#sea{
+    position: absolute;
+    box-shadow: 0px 0px 15px 2px lightgrey;
+    right: 100%;
+    margin: 12px;
+    width: 400px;
+    height: 30px;
+    outline: none;
+    border: none;
+    user-select: none;
+}
+#search{
+    font-size: 25px;
+    margin: 10px;
+}
+#pet{
+    font-size: 25px;
+    margin: 10px;
+    user-select: none;
+}
+.sign{
+    font-size: 25px;
+    margin: 10px;
+    user-select: none;
+}
+#am_nav_div_1{
+    display: flex;
+    justify-content: space-between;
+}
+#am_nav_div_2{
+    display: flex;
+    justify-content: space-evenly;
+    filter: invert(100%);
+    align-self: center;
+}
+#menu{
+    display: none;
+}
+#menuList{
+    display: none;
+}

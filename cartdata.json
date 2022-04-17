@@ -1,0 +1,28 @@
+{
+  "cartdata": [
+    {
+      "id": 7,
+      "src": "https://www.davpetlovers.com/wp-content/uploads/2020/03/5195464973618747747_IMG_8231-e1586439250530.jpg",
+      "name": "Alex",
+      "details": "Male Height:57cm, Weight:29kg",
+      "price": 2550,
+      "qty": 1
+    },
+    {
+      "id": 8,
+      "src": "https://cdn.shopify.com/s/files/1/0086/0795/7054/products/Gluten-Free-Chicken_760585bc-b8e4-41f6-b7b5-cd2a6ab731da_1000x.jpg?v=1648628877",
+      "name": "HUFT YIMT",
+      "details": "Gluten Free Dog Biscuits Combo",
+      "price": 359,
+      "qty": 1
+    },
+    {
+      "id": 9,
+      "src": "https://www.petshopdirect.com.au/persistent/catalogue_images/products/whiskas-milk-plus-1-litre.png",
+      "name": "Whiskas Milk Plus",
+      "details": "1 Litre",
+      "price": 378.31,
+      "qty": 1
+    }
+  ]
+}
